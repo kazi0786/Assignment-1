@@ -197,7 +197,7 @@ footer {
     width: 700px;
     height: 140px;
     display: flex;
-    justify-content: space-arou
+    justify-content: space-around;
     align-items: center;
     border-radius: 10px;
 }
